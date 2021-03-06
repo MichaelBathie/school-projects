@@ -1,0 +1,18 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	LOOP                    3036
+//	LOOP1                   3054
+//	LOOP2                   3073
+//	N                       3087
+//	NO_WRAP                 305A
+//	NO_WRAP1                3022
+//	NUM                     3086
+//	SKIP                    305B
+//	STACKBASE               3085
+//	WRAP_CHECK              3088
+//	decryptChar             3048
+//	encryptChar             3014
+//	noShifts                303F
+//	noShifts1               307C
+//	shiftLeftN              302A
+//	shiftRightN             3067

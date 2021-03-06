@@ -1,0 +1,25 @@
+{
+  "Michael": [
+    {
+      "date": "2015-06-24",
+      "name": "Going on a trip",
+      "desc": "Heading to the US for a week"
+    },
+    {
+      "date": "2019-02-25",
+      "name": "First skateboard",
+      "desc": "going skateboarding for the first time"
+    }
+  ],
+  "names": [
+    "Michael",
+    "Angela"
+  ],
+  "Angela": [
+    {
+      "date": "2020-03-05",
+      "name": "Soccer",
+      "desc": "Going to a soccer game"
+    }
+  ]
+}

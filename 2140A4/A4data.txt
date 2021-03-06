@@ -1,0 +1,96 @@
+4
+zu = 0
+wk = zu
+ta = wk
+sx = zu * wk 
+pn = ta - sx
+md = sx + pn
+iq = zu - md 
+fg = iq + 0
+bt = 5 - 5
+zv = 1
+wl = zv + zu
+tb = zv * wl
+sy = wl / tb
+po = sy - bt
+me = po * sy
+ir = me - pn
+fh = ir * me
+bu = fh * ir
+zw = 2
+wm = 78 - 76
+tc = bt + wm
+sz = tc / fh
+pp = sz
+mf = pp - iq
+is = mf / zv
+fi = mf + ta
+bv = zw * bu
+zx = 3
+wn = zx * tb
+td = wn + pn
+pq = td
+mg = 79 - 76
+it = pp + md
+fj = it / sy
+bw = fj + fg
+zt = 78
+wj = 78 
+sw = 52 + 26
+pm = 156 / zw
+mc =  pm / wl
+lz =  wj
+ip = mg * 16
+ff = 78
+bs = ff + bt
+zs = 77
+wi = bs - bu
+sv = 7 * 11
+pl = wi / fh
+mb = pl + zu
+ly = 77 
+io = ly - zu
+fe = io
+br = fe * zv
+zr = 76
+wh = 76 
+su = 76 
+pk = 38 * zw
+ma = ff - zw
+pk = 75 + wl
+lx =  tb + 75
+in = lx
+fd = zr
+bq = fd
+Q
+helen = cameron
+mike = domaratzki
+domaratzki = mike + mike
+cameron = helen * helen
+onlyone = 1
+Q
+abcdefghijklmnopqrstuvwxyz = 26
+a0123456789 = 11
+a0b1c2d3e4f5g6h7i8j9 = 20
+aaaaaaaaaa = 1001
+zzzzzzzzzz = 1026
+pneumonoultramicroscopicsilicovolcanoconiosis = 45
+pseudopseudohypoparathyroidism = 30
+floccinaucinihilipilification = 29
+antidisestablishmentarianism = 28
+a = 2001
+z = 2026
+uncopyrightable = pneumonoultramicroscopicsilicovolcanoconiosis / 2
+milen = aaaaaaaaaa + zzzzzzzzzz    
+Q
+
+
+lotsofblanks      =      66       *         3           
+
+
+gap2      =      2               /                              1
+
+
+Q
+
+

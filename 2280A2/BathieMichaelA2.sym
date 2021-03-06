@@ -1,0 +1,14 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ASCII                   3050
+//	CHECK                   302E
+//	DESTLOOP                3014
+//	NEGATIVE                3018
+//	NUMBER                  303B
+//	OF                      301A
+//	OUTPUT                  303D
+//	OVER                    3011
+//	RUN                     300B
+//	SKIPOVER                3012
+//	SWAP1                   3020
+//	WRITESTEP               303C

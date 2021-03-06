@@ -1,0 +1,47 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ACTION_START            3105
+//	ACTION_START_CHECK      3100
+//	ACTION_START_SUBROUTINE 307B
+//	ACTION_VALUE            30F6
+//	ANGLE_BRACKET_CHECK     30F5
+//	A_CHECK                 30F3
+//	DONE                    303A
+//	DONE_ACTION_START       3097
+//	DONE_EXECUTE_ACTION     3071
+//	DONE_HALT               3052
+//	DONE_MESSAGE            30FA
+//	DONE_MESSAGE_START      30BF
+//	DONE_START              30D9
+//	EXECUTE_ACTION          3106
+//	EXECUTE_ACTION_CHECK    3101
+//	EXECUTE_ACTION_SUBROUTINE305C
+//	HALT_PROCESS            3107
+//	HALT_PROCESS_CHECK      3102
+//	HALT_PROCESS_SUBROUTINE 303D
+//	HALT_VALUE              30F8
+//	H_CHECK                 30F4
+//	LOOP                    300D
+//	MESSAGE_START           3104
+//	MESSAGE_START_CHECK     30FF
+//	MESSAGE_START_SUBROUTINE30A5
+//	MSG                     30E4
+//	NEXT                    3038
+//	NOT_A1                  304C
+//	NOT_A2                  306B
+//	NOT_A3                  30B4
+//	NOT_ACTION_START        302E
+//	NOT_ANGLE_BRACKET1      30BE
+//	NOT_ANGLE_BRACKET2      30D8
+//	NOT_EXECUTE_ACTION      3027
+//	NOT_H1                  3051
+//	NOT_H2                  3070
+//	NOT_H3                  30B9
+//	NOT_HALT                3020
+//	NOT_MESSAGE_START       3035
+//	NOT_NUM                 3096
+//	NUM                     30F2
+//	SPACE                   30F1
+//	STACKBASE               30E3
+//	START                   3103
+//	START_SUBROUTINE        30C9
